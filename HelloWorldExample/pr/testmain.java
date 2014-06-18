@@ -5,7 +5,7 @@
  * Time: 00:43
  * To change this template use File | Settings | File Templates.
  */
-//include java.lang.* ;
+
 
 public class testmain {
     public static void main(String [] arg){
